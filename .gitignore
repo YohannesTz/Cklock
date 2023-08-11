@@ -1,0 +1,25 @@
+# Compiled object files
+*.o
+*.obj
+
+# Compiled executables
+*.exe
+*.out
+
+# Code::Blocks project files
+*.cbp
+*.layout
+*.depend
+*.layout
+
+# Generated files
+bin/
+obj/
+
+# IDE-specific files (optional)
+.project
+.settings/
+
+# Miscellaneous
+Thumbs.db
+.DS_Store
